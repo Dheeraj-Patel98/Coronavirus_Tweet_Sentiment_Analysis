@@ -2,7 +2,7 @@
 
 <p align="center">
 <img 
-     src="https://media.tenor.com/1j3-qb9Y_24AAAAC/covid-19.gif" >
+     src="https://media.tenor.com/NoO2NL5f5X8AAAAC/covid19-cell.gif" >
 </p>
 
 # Problem Statement
